@@ -21,8 +21,9 @@ Password-Manager is a secure and easy-to-use application designed to help you ma
 ## Usage
 1. Start the application:
     ```bash
-    
+    ./dist/main.exe
     ```
+    Or just create a short cut to the .exe
 2. Follow the on-screen instructions to manage your passwords.
 
 ## Contributing
